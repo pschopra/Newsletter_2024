@@ -1,6 +1,6 @@
-### Instructions to be followed for submitting data for Newsletter 2023
+### Instructions to be followed for submitting data for Newsletter 2024
 
-The Newsletter 2023 is to be released containing data from January 2022 to December 2022 (or till date).
+The Newsletter 2024 is to be released containing data from January 2023 to Junly 2024.
 
 For executing the same, kindly follow the instructions below -
 
