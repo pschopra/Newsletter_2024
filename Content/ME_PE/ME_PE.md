@@ -138,7 +138,28 @@ Our staff members actively involved in research and development activities. Our 
 | 2 |Dr. Gulvir Singh	| Outcome Based Education	| November 16, 2023	| IQAC, Guru Nanak Dev Engineering College, Ludhiana.|
 | 3 |Dr. Gulvir Singh	| BIS Awareness|	December, 12, 2023|	BIS, Chandigarh|
 | 4 |Dr. Gulvir Singh	| Communication Skills	|August 7, 2023|	Dept. of Applied Science & IQAC, Guru Nanak Dev Engineering College, Ludhiana.|
-
+| 5 | Dr. Chatwant Singh Pandher |	Finite Element Analysis using ABAQUS, TOSCA, ISIGHT |	05/02/2024 to 09/02/2024 (One Week)	| NITTTR, Chandigarh |
+| 6 | Dr. Chatwant Singh Pandher	| Role of Technical Institutions in Rural Infrastructure Development |	24/04/2023 to 28/04/2023 (One Week)	| Rural Development Department, HIET, Shahpur, H.P.|
+| 7 | Dr. Harnam Singh Farwaha |	Innovation, Research And IPR - Journey Towards Excellence |	01/03/2023 to 05/03/2023|	BVB's Sardar Patel College of Engineering, Mumbai & HSM's Shri. Sant Gadge Baba College of Engineering & Technology, Bhusawal|
+| 8 | Dr. Harnam Singh Farwaha |	Recent Advancement in Material, Micro-Manufacturing and Characterization (RAMMC-23) |	13/03/2023 to 17/03/2023	| Dr. D. Y. Patil Institute of Technology, Pimpri, Pune.|
+| 9 |Dr. Harnam Singh Farwaha	| IP Awareness/Training program	| 06/06/2023|	Intellectual Property Office, India.|
+| 10 | Dr. Harnam Singh Farwaha	| Recent Developments In Mechanical Engineering|	19/06/2023 to 23/06/2023|	Eswar College of Engineering, Kakinada, AP.|
+| 11 | Dr. Harnam Singh Farwaha |	Computer Aided Engineering Analysis Using Ansys	| 17/07/2023 to 21/07/2023 |	Vishwakarma Institute Of Information Technology, Pune.|
+| 12 | Dr. Harnam Singh Farwaha	| Recent Advances in Mechanical Engineering (RAME-23) |	24/07/2023 to 28/07/2023 |	Dr. D. Y. Patil Institute Of Technology, Pimpri, Pune.|
+| 12 |Dr. Harnam Singh Farwaha |	Recent Advances and Challenges in Electric Vehicles |	21/08/2023 to 25/08/2023 |	K J College Of Engineering And Management Research, Pune.|
+| 14 |Dr. Harnam Singh Farwaha	| Emerging Trends In Advance Manufacturing Technology |	20/02/2024 to 24/02/2024 |	School of Engineering & Technology, Sandip University, Nashik.|
+| 15 |Dr. Harnam Singh Farwaha |	Electric Vehicle Technology |	01/03/2024 to 02/03/2024 |	Matoshri Institute of Technology, Dhanore and EVRobotics Skill Coach (India) Pvt. Ltd. Mumbai|
+| 16 |Dr. Harnam Singh Farwaha	| Additive Manufacturing Technology|	04/03/2024 to 09/03/2024|	School of Engineering & Technology, Sandip University, Nashik.|
+| 17 |Dr. Harnam Singh Farwaha	|3D Printing & Additive Manufacturing Insights|	12/03/2024 to 16/03/2024|	National Institute of Technology, Mizoram.|
+| 18 | Dr. Harnam Singh Farwaha|	Fabrication & Characterization Of Novel Fiber Reinforced Polymer Composite For Structural Application	| 22/04/2024 to 26/04/2024|	Department Of Automation & Robotics, Sandip Institute Of Technology And Research Centre, Nashik.|
+| 19 |Dr. Harnam Singh Farwaha|	Revolutionizing Vibration Analysis through Artificial Intelligence and Machine Learning Integration" (RVAIML-24)” | from 11th to 15th June 2024	11/06/2024 to 15/06/2024 |	Department of Mechanical Engineering, Dr. D. Y. Patil Institute of Technology, Pimpri, Pune.|
+| 20 |Dr. Harnam Singh Farwaha	| NEP 2020 Orientation & Sensitization Programme|	18/06/2024 to 28/06/2024|	Indian Institute of Information Technology, Design and Manufacturing, Kancheepuram, Chennai.|
+| 21 | Dr. Raman Kumar|	"One Week Online Short Term Course on Machine Learning and its Applications in loT, Computer Vision and Cloud Computing (MICC-2023)"|	10th July to 14th July 2023	|Department of Computer Science & Engineering, National Institute of Technology Jamshedpur (NIT) Jamshedpur|
+| 22 |Dr. Raman Kumar|	Innovations in Water Treatment & Sustainable Infrastructure	|29th May 2023 to 2nd June 2023	|Chandigarh Engineering College, Jhanjeri, Mohaliv
+| 23 |Dr. Prem Singh|	Recent Advances and Challenges in Electric Vehicles	| 21/08/2023 to 25/08/2023|	KJ College of Engg. And Management Research|
+| 24 |Dr. Prem Singh	|Additive manufacturing Technology|	04/03/2024 to 09/03/2024	|Sandip University, Nashik|
+| 25 |Dr. Prem Singh	|Computational Fluid Dynamic: Bridging Theory and Practicev	|18/03/2024 to 29/03/2024	|Sinhgad College of Engineering, Pune|
+| 26 |Dr. Prem Singh	|Exploring Perspectives of AI and ML in Robotics and Automation	|24/06/2024 to 28/06/2024|	Dr. D.Y. Patil Institute of Technology, Pune|
 
                                                                     
 ## Events Organized
