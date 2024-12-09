@@ -38,7 +38,7 @@ Our staff members actively involved in research and development activities. Our 
   
 -	Patent Number- 537875 Dated 28/04/2021 awarded on 14/05/2024“INTERNAL SWAGING MACHINE” Patentee : 1. **Dr. Gulvir Singh**,  **Dr. Jatinder Kapoor** and **Dr. Sehijpal Singh**
   
- ![PSB](Images/GSP.png)
+ ![PSB](Images/GSP.jpg)
 
 ## Publications  
 
