@@ -2,7 +2,7 @@
 
 ## Message from HoD's Desk
 
-![PSB](Images/JSG.png)  
+![PSB](Images/HS.png)  
 
 <p align=justify>
 It is a matter of great pleasure and I would like to share few of my thoughts. The Department is flourishing and achieving new heights by getting two patents granted to the department by Patent Office, Govt. of India.
@@ -18,8 +18,8 @@ I personally and on the behalf of the department congratulate the Newsletter tea
 
 ## Faculty Achievements  
 
-- **Dr. Harmeet Singh**, Professor Mechanical & Production Engineering Department awarded best teacher award by Indian Society for Technical Education.
-- **Dr. Raman Kumar** awarded World's Top 2% Scientist for 2022 by Stanford University. 
+- **Dr. Harmeet Singh**, Professor Mechanical & Production Engineering Department joined HOD (MPE) with effect from  July, 2023.
+- **Dr. Raman Kumar** awarded World's Top 2% Scientist for 2023 by Stanford University for Second time. 
 
 ## Ph.D. Awarded
 - **Dr. Deepak Dhand** has  completed his Ph.D. in Mechanical Engineering from Punjabi University Patiala
