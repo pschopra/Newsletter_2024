@@ -91,10 +91,13 @@ Our staff members actively involved in research and development activities. Our 
 -	**Singh, Gulvir**, and Pradeep K. Singh. "Process variable optimization for hot-profiled rolling of SAE 52100 steel." International journal of precision engineering and manufacturing 24, no. 8 (2023): 1425-1433.
 -	**Singh, Gulvir**, and Pradeep K. Singh. "Reduction of energy and fuel consumption in the hot-rolling steel sector." Cleaner Engineering and Technology 17 (2023): 100689.
 
+## Book  Published
 
+| Sr. No. | Authors          |  Book Title      | Year      |  Publisher / ISBN No.    |
+|:--------|:-------------------------|:------------------------------------------------------------------------------------|:-----------------------|:-------------------------------------------------------------------------------|
+|1| **Raman Kumar**, Sita Rani, **Sehijpal Singh** | Machine Learning for Sustainable Manufacturing in Industry 4.0: Concept, Concerns and Applications	|2023| 		CRC Press	9781003453567|
 
-
-## Book Chapters
+## Book Chapters Published
 
 | Sr. No. | Authors          | Title      | Year      | Title of Book/ Publisher/ Page/ISBN No.    |
 |:--------|:-------------------------|:------------------------------------------------------------------------------------|:-----------------------|:-------------------------------------------------------------------------------|
