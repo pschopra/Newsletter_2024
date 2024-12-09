@@ -30,6 +30,11 @@ Our staff members actively involved in research and development activities. Our 
 -	**Dr. Jatinder Pal**  has completed his Ph.D. in Mechanical Engineering from Thaper University, Patiala
 -	**Dr. Shehbaaz Singh** Brar  has completed his Ph.D. in Mechanical Engineering from Punjab Technical University, Jalandhar  
 
+## Patent Granted
+
+- Patent No.459333 dated: 15th May 2019 awarded on 16th October 2023 “HIGH-TEMPERATURE OXIDATION AND EROSION RESISTANT ALLOY-718/ AL2O3 COMPOSITE COATINGS” Patentee: 1. Dr. Hitesh Vasudev 2. Dr. Lalit Thakur 3. **Dr. Harmeet Singh** 4. Dr. Amit Bansa
+-	Patent Number- 537875 Dated 28/04/2021 awarded on 14/05/2024“INTERNAL SWAGING MACHINE” Patentee : 1. **Dr. Gulvir Singh**,  **Dr. Jatinder Kapoor** and **Dr. Sehijpal Singh**
+
 ## Publications  
 
 - **Harnam Singh Farwaha**, Dharmpal Deepak and Gurinder Singh Brar (2022) “Investigation of a novel ultrasonically aided electrochemical magnetic abrasive machining process for SS 316L” The International Journal of Advanced Manufacturing Technology,  Vol. 122, pp. 2343–2359. doi.org/10.1007/s00170-022-10045-1
