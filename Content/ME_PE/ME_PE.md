@@ -22,7 +22,12 @@ I personally and on the behalf of the department congratulate the Newsletter tea
 - **Dr. Raman Kumar** awarded World's Top 2% Scientist for 2023 by Stanford University for Second time. 
 
 ## Ph.D. Awarded
-- **Dr. Deepak Dhand** has  completed his Ph.D. in Mechanical Engineering from Punjabi University Patiala
+
+-	**Dr. Prem Singh**  has completed his Ph.D. in Mechanical Engineering from Punjabi University, Patiala
+-	**Dr. Satjot Singh** Dhillon  has completed his Ph.D. in Mechanical Engineering from Punjab Technical University, Jalandhar
+-	**Dr. Gulvir Singh**  has completed his Ph.D. in Mechanical Engineering from SLITE, Langowal 
+-	**Dr. Jatinder Pal**  has completed his Ph.D. in Mechanical Engineering from Thaper University, Patiala
+-	**Dr. Shehbaaz Singh** Brar  has completed his Ph.D. in Mechanical Engineering from Punjab Technical University, Jalandhar  
 
 ## Publications  
 
