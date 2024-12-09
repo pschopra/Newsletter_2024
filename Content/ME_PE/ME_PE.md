@@ -5,7 +5,10 @@
 ![PSB](Images/JSG.png)  
 
 <p align=justify>
-It is great that institute is publishing the information regarding the academic and non-academic achievements and activities in the form of Newsletter every year. This yearly Newsletter reflect the significant outcome of the faculty, staff and students. I personally and on the behalf of the department congratulate the Newsletter team for their appreciable efforts in compiling and publishing the important outcomes of the department.
+It is a matter of great pleasure and I would like to share few of my thoughts. The Department is flourishing and achieving new heights by getting two patents granted to the department by Patent Office, Govt. of India.
+Our staff members actively involved in research and development activities. Our faculty members have published their research work in various reputed journals with good impact factors and carrying out research in diverse fields of Mechanical and Production Engineering. Students of department are also bringing laurel to the institute by participating in various curricular and extra-curricular activities from time-to-time at national and international levels. Department is supporting students in all domains for their overall personality development and organizing different events through societies and clubs managed by department.
+I personally and on the behalf of the department congratulate the Newsletter team for their appreciable efforts in compiling and publishing the important outcomes of the Department.
+
 </p>
 
 ***Dr. Jasmaninder Singh Grewal***  
