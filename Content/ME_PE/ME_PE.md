@@ -11,7 +11,7 @@ I personally and on the behalf of the department congratulate the Newsletter tea
 
 </p>
 
-***Dr. Jasmaninder Singh Grewal***  
+***Dr. Harmeet Singh***  
  *HOD, Mechanical and Production Engineering Department*
 
 ## Department at Glimpse
