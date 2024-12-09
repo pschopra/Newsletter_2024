@@ -134,8 +134,12 @@ Our staff members actively involved in research and development activities. Our 
 
 | Sr. No. | Name of Faculty          | Name of Event                                                                       | Date(s)                | Organizing Institute                                                           |
 |:--------|:-------------------------|:------------------------------------------------------------------------------------|:-----------------------|:-------------------------------------------------------------------------------|
-| 1       | Amrinder Singh Pannu    | Outcome Based Assessment                                                   | 31-01-2022 to 04-02-2022   | National Institute of Technical Teachers Training and Research, Bhopal                                                                    |
-| 2       | Amrinder Singh Pannu  | Metal Additive Manufacturing (MAM)                                                   | December 12 - 17, 2022    | Dr. B.R. Ambedkar National Institute of Technology Jalandhar, Punjab
+| 1 |Dr. Gulvir Singh	| Finite Element Analysis using ABAQUS, TOSCA, ISIGHT	| February 5, 2024 to February 9, 2024 |	NITTTR, Chandigarh.|
+| 2 |Dr. Gulvir Singh	| Outcome Based Education	| November 16, 2023	| IQAC, Guru Nanak Dev Engineering College, Ludhiana.|
+| 3 |Dr. Gulvir Singh	| BIS Awareness|	December, 12, 2023|	BIS, Chandigarh|
+| 4 |Dr. Gulvir Singh	| Communication Skills	|August 7, 2023|	Dept. of Applied Science & IQAC, Guru Nanak Dev Engineering College, Ludhiana.|
+
+
                                                                     
 ## Events Organized
 
