@@ -33,7 +33,12 @@ Our staff members actively involved in research and development activities. Our 
 ## Patent Granted
 
 - Patent No.459333 dated: 15th May 2019 awarded on 16th October 2023 “HIGH-TEMPERATURE OXIDATION AND EROSION RESISTANT ALLOY-718/ AL2O3 COMPOSITE COATINGS” Patentee: 1. Dr. Hitesh Vasudev 2. Dr. Lalit Thakur 3. **Dr. Harmeet Singh** 4. Dr. Amit Bansa
+
+  ![PSB](Images/HS.png)
+  
 -	Patent Number- 537875 Dated 28/04/2021 awarded on 14/05/2024“INTERNAL SWAGING MACHINE” Patentee : 1. **Dr. Gulvir Singh**,  **Dr. Jatinder Kapoor** and **Dr. Sehijpal Singh**
+  
+ ![PSB](Images/HS.png)
 
 ## Publications  
 
