@@ -104,6 +104,9 @@ Our staff members actively involved in research and development activities. Our 
 |4|Harpreet Kaur Channi and **Raman Kumar|Machine learning for metaladditive manufacturing process optimization |2024|Additive Manufacturing Materials andTechnologies; Machine Learning forPowder-Based MetalAdditive Manufacturing, Edited byGurminder Singh, Farhad Imani, Asim Tewari, Sushil Mishra, Elsevier, 2024, pp. 131-154; ISBN: 978-0-443-22145-3 |
 |5|**Raman Kumar**, Nishant Ranjan, Ramandeep Singh Sidhu, Bhowmik Abhijit, Sushant|Chapter 4 Role of fillers and various sustainable innovations in the use of filler material for the preparation of composites|2024|"Green Composites Manufacturing: A Sustainable Approach, edited by Gurminder Singh, Ravinder Pal Singh, Neeraj Sharma and J. Paulo Davim, Berlin, Boston: De Gruyter, 2024, pp. 79-104. https://doi.org/10.1515/9783111067346-004 |
 |6|Vidyapati Kumar, Ankita Mistri, Atul Babbar, Vikas Dhawan, **Raman Kumar**, Lavish Kumar Singh, Ankit Sharma|Biomimicry-Inspired Design of Sustainable Composite Materials|2024|"Fabrication Techniques and Machining Methods of Advanced Composite Materials " CRC PresseBook ISBN9781003427735 |
+|7|Rupinder Kaur, **Raman Kumar**, Himanshu Aggarwal |Role of Machine Learning in Sustainable Manufacturing Practices: An Outline|2023|"International Conference on Intelligent Manufacturing and Energy Sustainability. Singapore: Springer Nature Singapore, 2023 |
+
+
 
 ## Conference attended
 - **Amrinder Singh Pannu** “Green Composites and their Manufacturing Techniques-A Review” International Conference on Materials for Emerging Technologies(ICMET-21), Department of Research Impact and Outcome, Division of Research and Development, Lovely Professional University, Punjab February 18-19, 2022
