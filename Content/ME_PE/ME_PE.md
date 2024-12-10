@@ -189,6 +189,16 @@ Team GENSONIC of “Society of Automotive Engineer’s Collegiate Club” organi
 ![PSB](Images/VL2.png)
 
 </p>
+
+ ## 2. BAJA SAEINDIA 2023: 
+<p align=justify>
+Team GENSONIC of “Society of Automotive Engineer’s Collegiate Club” participated in the BAJA SAEINDIA 2023 off-road racing competition from 14th February, 2023 to 19th February, 2023 and bagged the 1st Position in Punjab, Secured AIR 5th in Go Green Event and became the 1st New Team to clear Technical Inspection at the event.
+
+![PSB](Images/BS1.png)
+![PSB](Images/BS2.png)
+
+</p>
+ 
  <p align=justify>
 - Students of SAE GNDEC organized a seminar entitled “Ride and Read the Bicycle” on 15th March 2022 and discussed various components of a bicycle, the parts of electric bicycle and other different types of bicycles
 </p>
