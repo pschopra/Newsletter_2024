@@ -198,40 +198,35 @@ Team GENSONIC of “Society of Automotive Engineer’s Collegiate Club” partic
 ![PSB](Images/BS2.png)
 
 </p>
- 
- <p align=justify>
-- Students of SAE GNDEC organized a seminar entitled “Ride and Read the Bicycle” on 15th March 2022 and discussed various components of a bicycle, the parts of electric bicycle and other different types of bicycles
-</p>
 
-![P1](https://user-images.githubusercontent.com/58685328/230356476-0408f446-8db8-4f78-aabb-7913a3223cfc.jpg) ![P2](https://user-images.githubusercontent.com/58685328/230357259-3be9c225-d149-4cd4-bac3-60fa275adc95.jpg)
 
-  <p align=justify>
-- SAE GNDEC organized one-day workshop on ‘HOW TO OPERATE A 3D PRINTER’ on 20th May 2022 at CAD Lab of mechanical and production engineering department to enhance awareness among students about future of 3 D printing in industry. The speakers in the event first shared about the different types of 3D printers, materials used in it, software required for it, modern 3D printing trends and gave a brief about the engineering behind 3D printer.
-</p>
-
-![P3](https://user-images.githubusercontent.com/58685328/230357638-4599ac55-8d71-468d-a51f-e0faab322ad9.jpg) ![P4](https://user-images.githubusercontent.com/58685328/230357680-9793ba7f-836c-45af-be51-c754896c3c34.jpg)
-
+## 3. BAJA SAEINDIA 2024: 
 <p align=justify>
-- AMPE GNDEC organized one-day Seminar on “DESIGN INNOVATION FOR SUCCESSFUL CAREER IN THE FIELD OF AERONAUTICS SPACE AND DEFENCE FOR MECHANICAL ENGINEERS” on 25thJuly 2022 to guide and aware the students about the opportunities in the design field of aeronautics space and  defense by guest speaker Mr. Danish Abdul Khader (STK Technologies, Bangalore). 
- </p>
- 
-<p align=justify>      
-- AMPE GNDEC organized Webinar on “FULLY FUNDED MASTER’S  PPORTUNITIES IN ABROAD FOR ENGINEERING GRADUATES” on 9thSeptember 2022 to aware the students about the master’s opportunities in abroad and how to get the funds for the same. Speaker of the event  Er. Sidharth Popli, an Alumni of our college and an ‘Graduate Research Assistant’ in Windsor University, Canada. 
+Team GENSONIC of “Society of Automotive Engineer’s Collegiate Club” participated in the BAJA SAEINDIA 2024 off-road racing competition from 9th Junary, 2024 to 14th January, 2024 and bagged the 2nd Position Overall in North India. At this event, Prof. Sukhjeet Singh, Asistant Professor of Mech. & Prod. Engg Dept. was awarded the Dronacharya Award.  
+
+Team GENSONIC secured the following North India Rankings :-
+1st in Cost Event.
+2nd in Endurance. 
+2nd in Acceleration Simulation.
+5th in Sales Event.
+6th in Design Event.
+
+![PSB](Images/BS3.png)
+![PSB](Images/BS4.png)
+![PSB](Images/BS5.png)
 </p>
 
+ ## 4. VICTORY CELEBRATION EVENT: 
 <p align=justify>
-- Team GENSONIC of “Society of Automotive Engineer’s Collegiate Club” organized VEHICLE LAUNCH EVENT on 6th Feb 2023 to aware and encourage the GNDEC students about such initiatives and participation of GNDEC teams among engineering based competitions held at national level. 
+Team GENSONIC of “Society of Automotive Engineer’s Collegiate Club” organized Victory Celebration Event on 8th February, 2024 to honour the Team’s Sponsors and encourage the GNDEC students about such initiatives and participation of GNDEC teams among engineering based competitions held at national level.
+
+![PSB](Images/VCE1.png)
+![PSB](Images/VCE2.png)
+![PSB](Images/VCE3.png)
 </p>
 
-![P5](https://user-images.githubusercontent.com/58685328/230357976-1f9c6cbc-1d9b-4281-ade5-b6cf0e9773d3.jpg) ![P6](https://user-images.githubusercontent.com/58685328/230357936-5dca1c66-1fd3-462c-8d95-8e5e4736c707.jpg)
 
-  <p align=justify>
-- NCC Air Wing, Guru Nanak Dev Engineering College, Ludhiana won Overall Championship Trophy in CATC 96 organized by 4PB AIR SQN dated  03/01/2023 – 10/01/2023 and Cdt PanchamJai Singh of Mechanical & Production Engineering Department  was declared as best cadet.
-</p>
-
-![NCC](https://user-images.githubusercontent.com/58685328/230359293-b294aeb5-c6c1-48cb-b261-0020581bedf6.jpeg)
-
- <p align=justify>
-</p>
+ 
+ 
 
 
