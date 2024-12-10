@@ -171,11 +171,13 @@ Our staff members actively involved in research and development activities. Our 
 | 26 |Dr. Prem Singh	|Exploring Perspectives of AI and ML in Robotics and Automation	|24/06/2024 to 28/06/2024|	Dr. D.Y. Patil Institute of Technology, Pune|
 
                                                                     
-## Events Organized
+## Industry Institute Meet Organized
+This meet was organized by Department of Mech. & Prod. Engg. and Industrial Relation Cell, GNDEC. The objective of the meet was to share expertise and experience between the industry and Institute; Providing skill and expertise to the students to be successful in the current job market. The Prominent industrialists present in the meet were Mr. Jagbir Singh Sokhi, President Sewing Machine Development Cell; Mr. Narinder Bhamra, President Fasteners Manufacturers Assoc. of (India), Mr. Gurpreet Singh Kalhon, Senior Vice president Auto Parts Manufacturers (India); Mr. Harsimerjit Singh, President United Cycle Parts, Ludhiana; Mr. Satnam Singh Makkar, Vice President, United Cycle Parts, Ludhiana. Mr. Yashpal Gosian, President; Ludhiana Foundery Culsor; Mr. Kanwalpreet Singh, President Steel Shuttering, Ludhiana; Mr. Ashok Midha, MD Shubham Electrical; Mr. Amrik Singh, Director; NEXO Industries; Mr. Arshdeep Singh, Director, Pioneer Cranes; Mr. Sunil Bansal, MD Compac Technology India, Mr. Kulwinder Singh, MD, Barnala Engineers; Mr. Suman Singh, Arora Steels; 
 
-| Sr. No. | Name of Faculty      | Name of Event          | Date(s)                     | Organizing Institute     |
-|:--------|:---------------------|:-----------------------|:----------------------------|:-------------------------|
-| 1       | Dr. Raman Kumar | Hands on Training: Decision Making Methods and Research Writing Tools | August 8-12, 2022  | Centre for Multifacted Learning Department of Mechanical and Production Engineering, Guru Nanak Dev Engineering College, Ludhiana |
+Prof. J.S. Grewal and Dr. Sehijpal Singh (Principal, GNDEC) welcomed the participants. Dr. Jatinder Kapoor, Dean Industrial Relation Cell, highlighted the objectives of the meet. Dr. Harmeet Singh (HOD MPE) proposed the vote of Thanks.
+
+![PSB](Images/MEET.png) 
+
 
 ## Student Activities
 
