@@ -125,10 +125,19 @@ Our staff members actively involved in research and development activities. Our 
 
 
 ## Conference attended
-- **Amrinder Singh Pannu** “Green Composites and their Manufacturing Techniques-A Review” International Conference on Materials for Emerging Technologies(ICMET-21), Department of Research Impact and Outcome, Division of Research and Development, Lovely Professional University, Punjab February 18-19, 2022
-- **Amrinder Singh Pannu** “Characterization of surface treated flax fiber using Fourier Transformation Infrared (FTIR) Analysis” International Conference on Advances in Material Science and Technology (ICAMST-2022), School of Mechanical Engineering at Lovely Professional University, Punjab 25-26, November 2022 
-- **Raman Kumar** “Security and Privacy Challenges in the Deployment of Cyber-Physical Systems in Smart City Applications: State-of-Art Work”  2nd International Conference on Innovative Technology for Sustainable Development- ICITSD-2022. Published in Materials Today: Proceedings
-- **Raman Kumar** “Piezoelectric materials in sensors: Bibliometric and visualization analysis”  International Conference on Materials Science and Sustainable Manufacturing Technology ICMSSMT 2022, 20-21 May 2022, Coimbatore, Tamil Nadu, India 
+| Sr. No. |  Name         |   Name of the Conference     |  Place     |  Duration    |
+|:--------|:-------------------------|:------------------------------------------------------------------------------------|:-----------------------|:-------------------------------------------------------------------------------|
+|1| Dr. Harnam Singh Farwaha	| 2nd International Conference on Sustainable Nanotechnology and Nanomaterials (ICONN-2023)	| Chandigarh University, Gharuan, Mohali.|	27/07/2023 to 28/07/2023|
+|2| Dr. Harnam Singh Farwaha |	1st International Conference on Advances in Mechanical and Sustainable Engineering (CAMSE-2024)	| Punjabi University, Patiala. |	11/03/2024 to 12/03/2024|
+|3| Singh Satwant, Singh Harmeet, Kumar Raman |	Impact of wiper inserts on Machining Performance: A comprehensive review” at 3rd International conference and exposition on mechanical, material and manufacturing technology |	CVR College of engineering, Hyderabad	| 24th -26th October 2024|
+|4| Rupinder Kaur, Raman Kumar, Himanshu Aggarwal |	Role of Machine Learning in Sustainable Manufacturing Practices: An Outline at Fifth International Conference Intelligent Manufacturing and Energy Sustainability (ICIMES-2023) Innovation Ecosystems for Industry 5.0 	| Malla Reddy College of Engineering and Technology (MRCET), Dhulapally, Near KompallySecunderabad – 500100, Telangana State, India	|June 23-24, 2023|
+|5| Harpreet Kaur, Raman Kumar, Pulkit Kumar, Swapandeep Kaur, Krishna Kant Dixit, Hemant Sharma | Efficient and Cost-Effective Renewable Energy Integration of Photovoltaic and Hydro in Rural India using HOMER Pro: A Case Study of Chupki, Punjab at  Fifth International ConferenceIntelligent Manufacturing and Energy Sustainability (ICIMES-2023) Innovation Ecosystems for Industry 5.0 |	Malla Reddy College of Engineering and Technology (MRCET), Dhulapally, Near KompallySecunderabad – 500100, Telangana State|	June 23-24, 2023|
+|6| Ardamanbir Singh Sidhu, Raman Kumar, Sehijpal Singh, Harpreet Kaur| Efficiency Enhancement and Energy Optimization in Alloy Steel Drilling: An Experimental and Statistical Analysis at Fifth International Conference Intelligent Manufacturing and Energy Sustainability (ICIMES-2023) Innovation Ecosystems for Industry 5.0| 	Malla Reddy College of Engineering and Technology (MRCET), Dhulapally, Near KompallySecunderabad – 500100, Telangana State, India.	|June 23-24, 2023| 
+|7| Raman Kumar, Rupinder Kaur, Gitanjali, Harpreet Kaur Channi, Karneet Kaur |	Integrating Sustainable Energy Systems and Artificial Intelligence: Transforming the Future of Energy at  Fifth International Conference Intelligent Manufacturing and Energy Sustainability (ICIMES-2023) Innovation Ecosystems for Industry 5.0	| Malla Reddy College of Engineering and Technology (MRCET), Dhulapally, Near KompallySecunderabad – 500100, Telangana State, India	|June 23-24, 2023,.|
+|8| Swapandeep Kaur, Raman Kumar, Kanwardeep Singh |	An Overview of Drivers and Barriers to Renewable Energy Systems at  International Conference on Green Energy 2023 | AISSMS College of Engineering, Pune	|16-17 May, 2023 |
+
+
+
 
 ## Events Attended (FDPs/Conferences/STCs/SDTs/Workshops/Webinars etc.)  
 
