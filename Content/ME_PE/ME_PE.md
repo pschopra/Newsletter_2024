@@ -182,11 +182,13 @@ Prof. J.S. Grewal and Dr. Sehijpal Singh (Principal, GNDEC) welcomed the partici
 ## Student Activities
 
 ## 1. VEHICLE LAUNCH EVENT:
-
+<p align=justify>
 Team GENSONIC of “Society of Automotive Engineer’s Collegiate Club” organized “VEHICLE LAUNCH EVENT” on 6th February, 2023 to aware and encourages the GNDEC students about such initiatives and participation of GNDEC teams among engineering based competitions held at national level.
 
 ![PSB](Images/VL1.png)
 ![PSB](Images/VL2.png)
+
+</p>
  <p align=justify>
 - Students of SAE GNDEC organized a seminar entitled “Ride and Read the Bicycle” on 15th March 2022 and discussed various components of a bicycle, the parts of electric bicycle and other different types of bicycles
 </p>
