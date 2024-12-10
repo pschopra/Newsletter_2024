@@ -103,8 +103,8 @@ Our staff members actively involved in research and development activities. Our 
 |:--------|:-------------------------|:------------------------------------------------------------------------------------|:-----------------------|:-------------------------------------------------------------------------------|
 |1|Harpreet Kaur Channi, **Raman Kumar**|Chapter 14 - Digital technologies for fostering sustainability in Industry 4.0| 2024| Digital technologies for fostering sustainability in Industry 4.0." In Evolution and Trends of Sustainable Approaches, pp. 227-251. Elsevier, 2024. https://doi.org/10.1016/B978-0-443-21651-0.00016-4 |
 |2|**Raman Kumar** Harpreet Kaur Channi, Harish Kumar Banga|Data Analytics in Agriculture: Predictive Models and Real-Time Decision-Making|2024|AData Analytics in Agriculture. In Smart Agritech (eds S.K. Srivastava, D. Srivastava, K. Cengiz and P. Gaur).https://doi.org/10.1002/9781394302994.ch7|
-|3|Ramandeep Singh Sidhu &  Raman Kumar**| Machine learning-enabled powder-spreading process|2024| Additive Manufacturing Materials and Technologies; Machine Learning for Powder-Based Metal Additive Manufacturing,Edited by Gurminder Singh, Farhad Imani, Asim Tewari, Sushil Mishra, Elsevier, 2024, pp. 107-130; ISBN: 978-0-443-22145-3 |
-|4|Harpreet Kaur Channi and **Raman Kumar|Machine learning for metaladditive manufacturing process optimization |2024|Additive Manufacturing Materials andTechnologies; Machine Learning forPowder-Based MetalAdditive Manufacturing, Edited byGurminder Singh, Farhad Imani, Asim Tewari, Sushil Mishra, Elsevier, 2024, pp. 131-154; ISBN: 978-0-443-22145-3 |
+|3|Ramandeep Singh Sidhu &  **Raman Kumar**| Machine learning-enabled powder-spreading process|2024| Additive Manufacturing Materials and Technologies; Machine Learning for Powder-Based Metal Additive Manufacturing,Edited by Gurminder Singh, Farhad Imani, Asim Tewari, Sushil Mishra, Elsevier, 2024, pp. 107-130; ISBN: 978-0-443-22145-3 |
+|4|Harpreet Kaur Channi and **Raman Kumar**|Machine learning for metaladditive manufacturing process optimization |2024|Additive Manufacturing Materials andTechnologies; Machine Learning forPowder-Based MetalAdditive Manufacturing, Edited byGurminder Singh, Farhad Imani, Asim Tewari, Sushil Mishra, Elsevier, 2024, pp. 131-154; ISBN: 978-0-443-22145-3 |
 |5|**Raman Kumar**, Nishant Ranjan, Ramandeep Singh Sidhu, Bhowmik Abhijit, Sushant|Chapter 4 Role of fillers and various sustainable innovations in the use of filler material for the preparation of composites|2024|"Green Composites Manufacturing: A Sustainable Approach, edited by Gurminder Singh, Ravinder Pal Singh, Neeraj Sharma and J. Paulo Davim, Berlin, Boston: De Gruyter, 2024, pp. 79-104. https://doi.org/10.1515/9783111067346-004 |
 |6|Vidyapati Kumar, Ankita Mistri, Atul Babbar, Vikas Dhawan, **Raman Kumar**, Lavish Kumar Singh, Ankit Sharma|Biomimicry-Inspired Design of Sustainable Composite Materials|2024|"Fabrication Techniques and Machining Methods of Advanced Composite Materials " CRC PresseBook ISBN9781003427735 |
 |7|Rupinder Kaur, **Raman Kumar**, Himanshu Aggarwal |Role of Machine Learning in Sustainable Manufacturing Practices: An Outline|2023|"International Conference on Intelligent Manufacturing and Energy Sustainability. Singapore: Springer Nature Singapore, 2023 |
@@ -181,6 +181,12 @@ Prof. J.S. Grewal and Dr. Sehijpal Singh (Principal, GNDEC) welcomed the partici
 
 ## Student Activities
 
+## 1. VEHICLE LAUNCH EVENT:
+
+Team GENSONIC of “Society of Automotive Engineer’s Collegiate Club” organized “VEHICLE LAUNCH EVENT” on 6th February, 2023 to aware and encourages the GNDEC students about such initiatives and participation of GNDEC teams among engineering based competitions held at national level.
+
+![PSB](Images/VL1.png)
+![PSB](Images/VL2.png)
  <p align=justify>
 - Students of SAE GNDEC organized a seminar entitled “Ride and Read the Bicycle” on 15th March 2022 and discussed various components of a bicycle, the parts of electric bicycle and other different types of bicycles
 </p>
