@@ -137,8 +137,6 @@ Our staff members actively involved in research and development activities. Our 
 |8| Swapandeep Kaur, **Raman Kumar**, Kanwardeep Singh |	An Overview of Drivers and Barriers to Renewable Energy Systems at  International Conference on Green Energy 2023 | AISSMS College of Engineering, Pune	|16-17 May, 2023 |
 
 
-
-
 ## Events Attended (FDPs/Conferences/STCs/SDTs/Workshops/Webinars etc.)  
 
 | Sr. No. | Name of Faculty          | Name of Event                                                                       | Date(s)                | Organizing Institute                                                           |
@@ -172,9 +170,12 @@ Our staff members actively involved in research and development activities. Our 
 
                                                                     
 ## Industry Institute Meet Organized
+<p align=justify>
 This meet was organized by Department of Mech. & Prod. Engg. and Industrial Relation Cell, GNDEC. The objective of the meet was to share expertise and experience between the industry and Institute; Providing skill and expertise to the students to be successful in the current job market. The Prominent industrialists present in the meet were Mr. Jagbir Singh Sokhi, President Sewing Machine Development Cell; Mr. Narinder Bhamra, President Fasteners Manufacturers Assoc. of (India), Mr. Gurpreet Singh Kalhon, Senior Vice president Auto Parts Manufacturers (India); Mr. Harsimerjit Singh, President United Cycle Parts, Ludhiana; Mr. Satnam Singh Makkar, Vice President, United Cycle Parts, Ludhiana. Mr. Yashpal Gosian, President; Ludhiana Foundery Culsor; Mr. Kanwalpreet Singh, President Steel Shuttering, Ludhiana; Mr. Ashok Midha, MD Shubham Electrical; Mr. Amrik Singh, Director; NEXO Industries; Mr. Arshdeep Singh, Director, Pioneer Cranes; Mr. Sunil Bansal, MD Compac Technology India, Mr. Kulwinder Singh, MD, Barnala Engineers; Mr. Suman Singh, Arora Steels; 
 
 Prof. J.S. Grewal and Dr. Sehijpal Singh (Principal, GNDEC) welcomed the participants. Dr. Jatinder Kapoor, Dean Industrial Relation Cell, highlighted the objectives of the meet. Dr. Harmeet Singh (HOD MPE) proposed the vote of Thanks.
+
+</p>
 
 ![PSB](Images/MEET.png) 
 
