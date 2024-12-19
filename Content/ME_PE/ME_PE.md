@@ -2,7 +2,7 @@
 
 ## Message from HoD's Desk
 
-![PSB](Images/HS.png)  
+![](Images/HS.png)  
 
 <p align=justify>
 It is a matter of great pleasure and I would like to share few of my thoughts. The Department is flourishing and achieving new heights by getting two patents granted to the department by Patent Office, Govt. of India.
@@ -34,11 +34,11 @@ Our staff members actively involved in research and development activities. Our 
 
 - Patent No.459333 dated: 15th May 2019 awarded on 16th October 2023 “HIGH-TEMPERATURE OXIDATION AND EROSION RESISTANT ALLOY-718/ AL2O3 COMPOSITE COATINGS” Patentee: 1. Dr. Hitesh Vasudev 2. Dr. Lalit Thakur 3. **Dr. Harmeet Singh** 4. Dr. Amit Bansa
 
-  ![PSB](Images/HSP.png)
+  ![](Images/HSP.png)
   
 -	Patent Number- 537875 Dated 28/04/2021 awarded on 14/05/2024“INTERNAL SWAGING MACHINE” Patentee : 1. **Dr. Gulvir Singh**,  **Dr. Jatinder Kapoor** and **Dr. Sehijpal Singh**
   
- ![PSB](Images/GSP.jpg)
+ ![](Images/GSP.jpg)
 
 ## Publications  
 
@@ -185,18 +185,19 @@ Prof. J.S. Grewal and Dr. Sehijpal Singh (Principal, GNDEC) welcomed the partici
 ## 1. VEHICLE LAUNCH EVENT:
 <p align=justify>
 Team GENSONIC of “Society of Automotive Engineer’s Collegiate Club” organized “VEHICLE LAUNCH EVENT” on 6th February, 2023 to aware and encourages the GNDEC students about such initiatives and participation of GNDEC teams among engineering based competitions held at national level.
-
-![PSB](Images/VL1.png)
-![PSB](Images/VL2.png)
-
 </p>
+
+![](Images/VL1.png)
+![](Images/VL2.png)
+
+
 
  ## 2. BAJA SAEINDIA 2023: 
 <p align=justify>
 Team GENSONIC of “Society of Automotive Engineer’s Collegiate Club” participated in the BAJA SAEINDIA 2023 off-road racing competition from 14th February, 2023 to 19th February, 2023 and bagged the 1st Position in Punjab, Secured AIR 5th in Go Green Event and became the 1st New Team to clear Technical Inspection at the event.
 
-![PSB](Images/BS1.png)
-![PSB](Images/BS2.png)
+![](Images/BS1.png)
+![](Images/BS2.png)
 
 </p>
 
@@ -212,18 +213,18 @@ Team GENSONIC secured the following North India Rankings :-
 5th in Sales Event.
 6th in Design Event.
 
-![PSB](Images/BS3.png)
-![PSB](Images/BS4.png)
-![PSB](Images/BS5.png)
+![](Images/BS3.png)
+![](Images/BS4.png)
+![](Images/BS5.png)
 </p>
 
  ## 4. VICTORY CELEBRATION EVENT: 
 <p align=justify>
 Team GENSONIC of “Society of Automotive Engineer’s Collegiate Club” organized Victory Celebration Event on 8th February, 2024 to honour the Team’s Sponsors and encourage the GNDEC students about such initiatives and participation of GNDEC teams among engineering based competitions held at national level.
 
-![PSB](Images/VCE1.png)
-![PSB](Images/VCE2.png)
-![PSB](Images/VCE3.png)
+![](Images/VCE1.png)
+![](Images/VCE2.png)
+![](Images/VCE3.png)
 </p>
 
 
