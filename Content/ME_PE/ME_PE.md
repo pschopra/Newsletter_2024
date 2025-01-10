@@ -125,6 +125,7 @@ Our staff members actively involved in research and development activities. Our 
 
 
 ## Conference attended
+
 | Sr. No. |  Name         |   Name of the Conference     |  Place     |  Duration    |
 |:--------|:-------------------------|:------------------------------------------------------------------------------------|:-----------------------|:-------------------------------------------------------------------------------|
 |1| **Dr. Harnam Singh Farwaha**	| 2nd International Conference on Sustainable Nanotechnology and Nanomaterials (ICONN-2023)	| Chandigarh University, Gharuan, Mohali.|	27/07/2023 to 28/07/2023|
@@ -139,8 +140,8 @@ Our staff members actively involved in research and development activities. Our 
 
 ## Events Attended (FDPs/Conferences/STCs/SDTs/Workshops/Webinars etc.)  
 
-| Sr. No. | Name of Faculty          | Name of Event                                                                       | Date(s)                | Organizing Institute                                                           |
-|:--------|:-------------------------|:------------------------------------------------------------------------------------|:-----------------------|:-------------------------------------------------------------------------------|
+| Sr. No. | Name of Faculty          | Name of Event                                            | Date(s)                | Organizing Institute                  |
+|:--------|:-------------------------|:--------------------------------------|:-----------------------|:-------------------------------------------------------------------------------|
 | 1 |Dr. Gulvir Singh	| Finite Element Analysis using ABAQUS, TOSCA, ISIGHT	| February 5, 2024 to February 9, 2024 |	NITTTR, Chandigarh.|
 | 2 |Dr. Gulvir Singh	| Outcome Based Education	| November 16, 2023	| IQAC, Guru Nanak Dev Engineering College, Ludhiana.|
 | 3 |Dr. Gulvir Singh	| BIS Awareness|	December, 12, 2023|	BIS, Chandigarh|
@@ -170,6 +171,7 @@ Our staff members actively involved in research and development activities. Our 
 
                                                                     
 ## Industry Institute Meet Organized
+
 <p align=justify>
 This meet was organized by Department of Mech. & Prod. Engg. and Industrial Relation Cell, GNDEC. The objective of the meet was to share expertise and experience between the industry and Institute; Providing skill and expertise to the students to be successful in the current job market. The Prominent industrialists present in the meet were Mr. Jagbir Singh Sokhi, President Sewing Machine Development Cell; Mr. Narinder Bhamra, President Fasteners Manufacturers Assoc. of (India), Mr. Gurpreet Singh Kalhon, Senior Vice president Auto Parts Manufacturers (India); Mr. Harsimerjit Singh, President United Cycle Parts, Ludhiana; Mr. Satnam Singh Makkar, Vice President, United Cycle Parts, Ludhiana. Mr. Yashpal Gosian, President; Ludhiana Foundery Culsor; Mr. Kanwalpreet Singh, President Steel Shuttering, Ludhiana; Mr. Ashok Midha, MD Shubham Electrical; Mr. Amrik Singh, Director; NEXO Industries; Mr. Arshdeep Singh, Director, Pioneer Cranes; Mr. Sunil Bansal, MD Compac Technology India, Mr. Kulwinder Singh, MD, Barnala Engineers; Mr. Suman Singh, Arora Steels; 
 
@@ -183,27 +185,32 @@ Prof. J.S. Grewal and Dr. Sehijpal Singh (Principal, GNDEC) welcomed the partici
 ## Student Activities
 
 ## 1. VEHICLE LAUNCH EVENT:
+
 <p align=justify>
 Team GENSONIC of “Society of Automotive Engineer’s Collegiate Club” organized “VEHICLE LAUNCH EVENT” on 6th February, 2023 to aware and encourages the GNDEC students about such initiatives and participation of GNDEC teams among engineering based competitions held at national level.
+</p>
 
 ![PSB](Images/VL1.png)
 ![PSB](Images/VL2.png)
 
-</p>
+
 
  ## 2. BAJA SAEINDIA 2023: 
+ 
 <p align=justify>
 Team GENSONIC of “Society of Automotive Engineer’s Collegiate Club” participated in the BAJA SAEINDIA 2023 off-road racing competition from 14th February, 2023 to 19th February, 2023 and bagged the 1st Position in Punjab, Secured AIR 5th in Go Green Event and became the 1st New Team to clear Technical Inspection at the event.
+</p>
 
 ![PSB](Images/BS1.png)
 ![PSB](Images/BS2.png)
 
-</p>
+
 
 
 ## 3. BAJA SAEINDIA 2024: 
 <p align=justify>
-Team GENSONIC of “Society of Automotive Engineer’s Collegiate Club” participated in the BAJA SAEINDIA 2024 off-road racing competition from 9th Junary, 2024 to 14th January, 2024 and bagged the 2nd Position Overall in North India. At this event, Prof. Sukhjeet Singh, Asistant Professor of Mech. & Prod. Engg Dept. was awarded the Dronacharya Award.  
+Team GENSONIC of “Society of Automotive Engineer’s Collegiate Club” participated in the BAJA SAEINDIA 2024 off-road racing competition from 9th Junary, 2024 to 14th January, 2024 and bagged the 2nd Position Overall in North India. At this event, Prof. Sukhjeet Singh, Asistant Professor of Mech. & Prod. Engg Dept. was awarded the Dronacharya Award. 
+</p>
 
 Team GENSONIC secured the following North India Rankings :-
 1st in Cost Event.
@@ -215,16 +222,18 @@ Team GENSONIC secured the following North India Rankings :-
 ![PSB](Images/BS3.png)
 ![PSB](Images/BS4.png)
 ![PSB](Images/BS5.png)
-</p>
+
 
  ## 4. VICTORY CELEBRATION EVENT: 
+ 
 <p align=justify>
 Team GENSONIC of “Society of Automotive Engineer’s Collegiate Club” organized Victory Celebration Event on 8th February, 2024 to honour the Team’s Sponsors and encourage the GNDEC students about such initiatives and participation of GNDEC teams among engineering based competitions held at national level.
+</p>
 
 ![PSB](Images/VCE1.png)
 ![PSB](Images/VCE2.png)
 ![PSB](Images/VCE3.png)
-</p>
+
 
 
  
