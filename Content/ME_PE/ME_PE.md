@@ -193,9 +193,7 @@ Team GENSONIC of “Society of Automotive Engineer’s Collegiate Club” organi
 ![PSB](Images/VL1.png)
 ![PSB](Images/VL2.png)
 
-
-
- ## 2. BAJA SAEINDIA 2023: 
+## 2. BAJA SAEINDIA 2023: 
  
 <p align=justify>
 Team GENSONIC of “Society of Automotive Engineer’s Collegiate Club” participated in the BAJA SAEINDIA 2023 off-road racing competition from 14th February, 2023 to 19th February, 2023 and bagged the 1st Position in Punjab, Secured AIR 5th in Go Green Event and became the 1st New Team to clear Technical Inspection at the event.
@@ -203,9 +201,6 @@ Team GENSONIC of “Society of Automotive Engineer’s Collegiate Club” partic
 
 ![PSB](Images/BS1.png)
 ![PSB](Images/BS2.png)
-
-
-
 
 ## 3. BAJA SAEINDIA 2024: 
 <p align=justify>
@@ -223,8 +218,7 @@ Team GENSONIC secured the following North India Rankings :-
 ![PSB](Images/BS4.png)
 ![PSB](Images/BS5.png)
 
-
- ## 4. VICTORY CELEBRATION EVENT: 
+## 4. VICTORY CELEBRATION EVENT: 
  
 <p align=justify>
 Team GENSONIC of “Society of Automotive Engineer’s Collegiate Club” organized Victory Celebration Event on 8th February, 2024 to honour the Team’s Sponsors and encourage the GNDEC students about such initiatives and participation of GNDEC teams among engineering based competitions held at national level.
